@@ -1,0 +1,58 @@
+[
+    {
+        "id": "ef7bd203-494b-4edb-b169-f26dadcacd52",
+        "title": "New Meeting",
+        "description": "Team sync-up",
+        "start_time": "2025-07-05T11:00",
+        "end_time": "2025-07-05T12:00",
+        "recurrence": "daily"
+    },
+    {
+        "id": "c20a9616-dfd6-4b13-b39b-4c38a31069c5",
+        "title": "New Meeting",
+        "description": "Team sync-up",
+        "start_time": "2025-07-05T11:00",
+        "end_time": "2025-07-05T12:00",
+        "recurrence": "daily"
+    },
+    {
+        "id": "8ef912b6-7353-40da-9759-1ca6443ae8db",
+        "title": "Team Meeting",
+        "description": "Project sync-up",
+        "start_time": "2025-07-10T09:00",
+        "end_time": "2025-07-10T10:00",
+        "recurrence": "daily"
+    },
+    {
+        "id": "a688bbd5-9b25-488f-acc9-d632de487488",
+        "title": "Team Meeting",
+        "description": "Project sync-up",
+        "start_time": "2025-07-10T09:00",
+        "end_time": "2025-07-10T10:00",
+        "recurrence": "daily"
+    },
+    {
+        "id": "1b01f2de-f826-4b58-a854-525a0fa42d5a",
+        "title": "Team Meeting",
+        "description": "Project sync-up",
+        "start_time": "2025-07-10T09:00",
+        "end_time": "2025-07-10T10:00",
+        "recurrence": "daily"
+    },
+    {
+        "id": "ce7003ff-0dbb-4b2b-b0e6-3fef4d4e13f9",
+        "title": "Meeting",
+        "description": "Team discussion",
+        "start_time": "2025-07-05T11:00",
+        "end_time": "2025-07-05T12:00",
+        "recurrence": "daily"
+    },
+    {
+        "id": "bf4c21c5-3641-4bef-ae49-6f4affaca329",
+        "title": "Updated Meeting Title",
+        "description": "Final Submission",
+        "start_time": "2025-07-01T10:00",
+        "end_time": "2025-07-01T11:00",
+        "recurrence": "daily"
+    }
+]
